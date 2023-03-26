@@ -2,8 +2,8 @@
   "version": 2,
   "public": false,
   "env": {
-    "OAUTH_CLIENT_SECRET": "@oauth_client_secret",
-    "OAUTH_CLIENT_ID": "@oauth_client_id"
+    "OAUTH_CLIENT_SECRET": "73c780c110fb3fa84613450d0f766d13b70437a7",
+    "OAUTH_CLIENT_ID": "51ba10e209fbb487b054"
   },
   "headers": [
     {
